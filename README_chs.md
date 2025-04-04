@@ -1,5 +1,5 @@
 # alist-on-sillydev
-[English](https://github.com/yucho123987/alist-on-sillydev/README.md) | 简体中文
+[English](https://github.com/yucho123987/alist-on-sillydev/blob/main/README.md) | 简体中文
 本项目旨在在 SillyDev 的免费服务器上运行 Alist 程序。
 ## 需求
 - 一个拥有足够积分的 SillyDev 账户

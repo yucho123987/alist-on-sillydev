@@ -1,5 +1,5 @@
 # alist-on-sillydev
-English | [简体中文](https://github.com/yucho123987/alist-on-sillydev/README_chs.md)  
+English | [简体中文](https://github.com/yucho123987/alist-on-sillydev/blob/main/README_chs.md)  
 This project aims to run Alist server on SillyDev's free server.
 ## Requirements
 - A SillyDev account with enough credits
