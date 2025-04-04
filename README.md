@@ -1,2 +1,1 @@
-# alist-on-sillydev
-This project helps you run Alist server on SillyDev's free server.
+These are the screenshots used in README.md in the main branch.
