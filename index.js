@@ -2,6 +2,8 @@
 alist-on-sillydev by Yucho
 GitHub: https://github.com/yucho123987/alist-on-sillydev
 */
+console.log('ERROR: This project has been officially banned by SillyDev, please do not risk it.');
+process.exit(1);
 const { spawn, execSync } = require('child_process'), axios = require('axios'), fs = require('fs'), inly = require('inly');
 // Check if the Alist program exists
 try {
